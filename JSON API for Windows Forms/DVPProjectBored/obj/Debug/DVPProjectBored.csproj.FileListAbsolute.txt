@@ -1,0 +1,39 @@
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\bin\Debug\DVPProjectBored.exe.config
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\bin\Debug\DVPProjectBored.exe
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\bin\Debug\DVPProjectBored.pdb
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.csprojAssemblyReference.cache
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.Form1.resources
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.Properties.Resources.resources
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.GenerateResource.cache
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.CoreCompileInputs.cache
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.exe
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.pdb
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bentl\source\repos\DVPProjectBored\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.CopyComplete
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\bin\Debug\DVPProjectBored.exe.config
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\bin\Debug\DVPProjectBored.exe
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\bin\Debug\DVPProjectBored.pdb
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.csprojAssemblyReference.cache
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.Form1.resources
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.Properties.Resources.resources
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.GenerateResource.cache
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.CoreCompileInputs.cache
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.CopyComplete
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.exe
+C:\Users\bentl\Documents\GitHub\DVP3\Assignment_03\DVPProjectBored\obj\Debug\DVPProjectBored.pdb
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\bin\Debug\DVPProjectBored.exe.config
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\bin\Debug\DVPProjectBored.exe
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\bin\Debug\DVPProjectBored.pdb
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\bin\Debug\Newtonsoft.Json.dll
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\bin\Debug\Newtonsoft.Json.xml
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.AssemblyReference.cache
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.Form1.resources
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.Properties.Resources.resources
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.GenerateResource.cache
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.CoreCompileInputs.cache
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.csproj.CopyComplete
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.exe
+C:\Users\btolman\Desktop\JSON API for Windows Forms\DVPProjectBored\obj\Debug\DVPProjectBored.pdb
